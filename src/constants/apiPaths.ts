@@ -1,9 +1,9 @@
 const API_PATHS = {
-  product: "https://sfuj8ilp8h.execute-api.us-east-1.amazonaws.com/dev",
+  product: "https://jchv8meix8.execute-api.us-east-1.amazonaws.com/dev/product",
   order: "https://sfuj8ilp8h.execute-api.us-east-1.amazonaws.com/dev",
   import: "https://xreboz193f.execute-api.us-east-1.amazonaws.com/dev",
   bff: "https://sfuj8ilp8h.execute-api.us-east-1.amazonaws.com/dev",
-  cart: "https://5uuotor4l1.execute-api.us-east-1.amazonaws.com/develop/api"
+  cart: "https://jchv8meix8.execute-api.us-east-1.amazonaws.com/dev/cart"
 };
 
 export default API_PATHS;
